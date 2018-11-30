@@ -1,0 +1,30 @@
+Yo !! Colt Enigma os growing and updated to 3.2
+More QS Styles like Squaremedo and Oreo Styles
+CPU Info Toggle Tile
+StausBar icon padding issues fixed
+Touch Response Optimisations
+Memory Optimisations
+New Colt Switchbar
+StatusBar Clock Customisations : Clock Position :: Show Seconds :: Show AM/PM :: Show day of the week
+Optimised Bottom Brightness Slider Padding
+LockScreen Clock Widget/Date/OwnerInfo Fonts Style
+LockScreen Clock Widget/Date/OwnerInfo Fonts Size
+LockScreen Clock Widget/Date/OwnerInfo Fonts Colors
+Full Navbar gesture
+Update the default animations
+LockScreen Pixel Style Weather 
+Powermenu Scroll
+QS Detail Item View
+PowerMenu Advance Reboot
+Toggle for Double Tap to Sleep on Status Bar
+Heads up Complete Deck :: TimeOut, Snoose Timer, Stoplist, Blacklist etc
+Toggle for Fingerprint authentication vibration
+Toggle for Face auto unlock
+ColtThemes Enhancement (Please restart system ui after applying theme.)
+ADDED BACK OUT DYNAMIC BANNER IN ABOUT PHONE
+New ColorPicker Added
+
+Device Specific Changes
+Kernel is also updated
+
+Note : For Using Colt Themes, Themes under display section should be on Light Style....
