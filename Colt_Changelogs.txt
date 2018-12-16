@@ -1,30 +1,54 @@
-Yo !! Colt Enigma os growing and updated to 3.2
-More QS Styles like Squaremedo and Oreo Styles
-CPU Info Toggle Tile
-StausBar icon padding issues fixed
-Touch Response Optimisations
-Memory Optimisations
-New Colt Switchbar
-StatusBar Clock Customisations : Clock Position :: Show Seconds :: Show AM/PM :: Show day of the week
-Optimised Bottom Brightness Slider Padding
-LockScreen Clock Widget/Date/OwnerInfo Fonts Style
-LockScreen Clock Widget/Date/OwnerInfo Fonts Size
-LockScreen Clock Widget/Date/OwnerInfo Fonts Colors
-Full Navbar gesture
-Update the default animations
-LockScreen Pixel Style Weather 
-Powermenu Scroll
-QS Detail Item View
-PowerMenu Advance Reboot
-Toggle for Double Tap to Sleep on Status Bar
-Heads up Complete Deck :: TimeOut, Snoose Timer, Stoplist, Blacklist etc
-Toggle for Fingerprint authentication vibration
-Toggle for Face auto unlock
-ColtThemes Enhancement (Please restart system ui after applying theme.)
-ADDED BACK OUT DYNAMIC BANNER IN ABOUT PHONE
-New ColorPicker Added
+Update Time 
+* Version Bumped to 3.4
+* New default Wallpaper
+* Dec Security Patch r-21
+* Edge Gestures with Animation for back gestures
+* Merged font packages for Colt
+* Boosted Framework
+* Added boost for games
+* Separate ringtone for multisim devices
+* Speedup notification panel pulldown
+* Long Press setting button to open our Colt-Enigma app
+* Big Circle and Big Dotted Circle added to battery styles
+* Screen Off animations
+* Battery Bar with gradiant support
+* Signature Spoofing Toggle
+* Option to Display Data Disabled Indicator Icon
+* Alarm Blockers
+* Suspended Actions
+* Update few drawables
+* New Colt Wallpaper App
+* New Gallery App
+* New ColtWall App
+* New MusicFX with DSP
+* Recorder (Screen & Sound)
+* Auto Brightness toggle to QS
+* Reworked auto brightness implementation
+* Brightness slider buttons
+* Brightness slider: Vibrate after a long press
+* Night Light brightness mode options
+* Bluetooth Battery Level
+* CPU Info Tile
+* OP like Gestures
+* Recent Styles
+* Immersive Recents
+* Membar, Clock and Date in Recents
+* AOSP default theme option removed
+* Selinux Version added
+* Added Pixel Sounds and updated default sounds
+* Added Colt Version and Build info in about phone
+* Recents: add pinch-in gesture on tasks to Clear All (for Oreo style recents)
+* Toggle for brightness slider buttons
+* Added support for multiple display
+* Added QS header styles
+* Switchbar restored do default
+* NetworkTraffic: Fix tinting on dark qs
+* Added 20+ more accent colors in colt themes
+* Lots of here and there fixes
+* and many more.....just flash and check.
 
-Device Specific Changes
-Kernel is also updated
+* Clean Flash is recommended
 
-Note : For Using Colt Themes, Themes under display section should be on Light Style....
+Thanks
+Regards,
+Rakesh Batra
